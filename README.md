@@ -1,7 +1,7 @@
 # EXO-API-DOFUS- Chasse aux monstres 
 # Descritpion 
 
-Cet exercice est une pratique de l'API, ici nous allons récupérer les APIS des monstres  du jeu DOFUS, pas pour tous les monstres mais ici on vas spécifier 3 types de monstres qui sont  : Larves, Monstres des cavernes et Monstres des plaines herbeuses. Donc faire une chasse aux monstres. 
+Cet exercice est une pratique de l'API, ici nous allons récupérer les APIS des monstres  du jeu DOFUS, pas tous les monstres mais ici on vas spécifier 3 types de monstres qui sont  : Larves, Monstres des cavernes et Monstres des plaines herbeuses. Donc faire une chasse aux monstres. 
 
 
 # lancement 
