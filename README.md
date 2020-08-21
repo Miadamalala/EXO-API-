@@ -8,7 +8,7 @@ Cet exercice est une pratique de l'API, ici nous allons récupérer les APIS des
 
 Avant d’exécuter le programme il est primordial d'installer la gem HTTParty : "gem install httparty"
 
-Ensuite vous pouvez lancer le programme en lancant "ruby app.rb "
+Ensuite vous pouvez lancer le programme en lancant "ruby app.rb " dans le terminal 
 
 ## RAMAROSON Miadamalala Tojo 
 
